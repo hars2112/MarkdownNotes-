@@ -29,6 +29,10 @@
 3. htop (is the best) to finnish press #f10
 
 
+#### git commands 
+
+git pull url (bring the repository)
+
 
 
 
