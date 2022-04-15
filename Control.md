@@ -32,6 +32,8 @@
 #### git commands 
 
 git pull url (bring the repository)
+git status (shows work status) 
+
 
 
 
