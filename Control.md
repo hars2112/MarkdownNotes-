@@ -32,7 +32,14 @@
 #### git commands 
 
 git pull url (bring the repository)
+git add -A (add every file to the staging area)
+git add <fileName> (only add fileName to the stagin area) 
+git commit -m "message" (move added files to the repository) 
 git status (shows work status) 
+git log (shows the logs)
+git branch (shows all branches available) 
+git branch <newBranchName> (create a new branch) 
+git checkout <branchName> (switch to branchName)
 
 
 
