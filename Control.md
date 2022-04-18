@@ -41,10 +41,7 @@ git branch (shows all branches available)
 git branch <newBranchName> (create a new branch) 
 git checkout <branchName> (switch to branchName)
 
-
-
-
-
+cd
 
 
 
